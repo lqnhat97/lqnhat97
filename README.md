@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/nhatle97"><img src="https://api.daily.dev/devcards/v2/kfQOrGs6jug2D2kaj2wEE.png?type=default&r=70i" width="356" alt="Nhat Le's Dev Card"/></a>
+<a href="https://app.daily.dev/nhatle97"><img src="./devcard.png" width="356" alt="Nhat Le's Dev Card"/></a>
